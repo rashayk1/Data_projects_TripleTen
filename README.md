@@ -1,5 +1,5 @@
 # Data_projects_TripleTen
-Projects I worked on while attending the Data Analysis TripleTen Bootcamp.
+Projects I worked on while attending the Business Analysis TripleTen Bootcamp.
 | Project number | Title | Description |
 | :-----------: | ----------- |----------- |
 | 1 |The Zomato Story | The project task was to analyze user data and see which restaurants perform better in which locations and which specific groups, and how this data can be used to improve sales in other user categories. |
